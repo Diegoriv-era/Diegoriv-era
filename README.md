@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Diegoriv-era
 - 👀 I’m interested in almost everything CS (Interested in Full Stack Development)
-- 🌱 I’m currently learning web dev in my free time
+- 🌱 I’m currently learning web dev in my free time and im a big basketball fan.
 - 📫  Linkedin: https://www.linkedin.com/in/diego-rivera-4a82451aa/
 - 📫  gmail: riveradie@sonoma.edu  |  diego.rivera.srjc@gmail.com
 
