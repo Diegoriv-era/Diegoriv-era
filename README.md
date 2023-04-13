@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @Diegoriv-era
-- 👀 I’m interested in almost everything CS (Interested in Full Stack Development)
+- 👀 I’m interested in almost everything CS (most interested Full Stack, Computer Graphics, Game Dev, )
 - 🌱 I’m currently learning web dev in my free time and im a big basketball fan.
 - 📚 Student at Sonoma State University, majoring in Computer Science
 - 🚨 Some school projects may be private msg me for access
