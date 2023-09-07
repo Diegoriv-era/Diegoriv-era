@@ -7,10 +7,18 @@
 - 📫 gmail: riveradie@sonoma.edu  |  diego.rivera.srjc@gmail.com
 
 ## Projects:
+### CS355 Repo
+- NBA Ticket Sales Database = "project 2"
+- Practicing Switches = "Homework 3"
+### CS315 Repo
+- Social Network = "Project 1"
+- Worm Game ASCII = "pj2"
+- Recursive Functions = " pj3"
 ### CS215 Repo
 - Online Shopping Cart  = "PJ2 checkpointB"
 - Music Playlist = "PJ3 checkpoint B cs215" 
 - Linked List Class Labs = "lab08" "lab09" "lab10"
+
 
 <!---
 Diegoriv-era/Diegoriv-era is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
