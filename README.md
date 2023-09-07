@@ -6,8 +6,8 @@
 - 📫 Connect with me on Linkedin: https://www.linkedin.com/in/diego-rivera-4a82451aa/
 - 📫 gmail: riveradie@sonoma.edu  |  diego.rivera.srjc@gmail.com
 
-### Projects:
-## CS215 Repo
+## Projects:
+### CS215 Repo
 - Online Shopping Cart  = "PJ2 checkpointB"
 - Music Playlist = "PJ3 checkpoint B cs215" 
 - Linked List Class Labs = "lab08" "lab09" "lab10"
