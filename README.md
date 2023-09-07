@@ -8,17 +8,17 @@
 
 ## Projects:
 ### CS355 Repo
-- NBA Ticket Sales Database = "project 2"
+- **NBA Ticket Sales Database** = "project 2"
   A KoaJS API used MariaDB and NodeJS
-- Practicing Switches = "Homework 3"
+- **Practicing Switches** = "Homework 3"
 ### CS315 Repo
-- Social Network = "Project 1"
-- Worm Game ASCII = "pj2"
-- Recursive Functions = " pj3"
+- **Social Network** = "Project 1"
+- **Worm Game ASCII** = "pj2"
+- **Recursive Functions** = " pj3"
 ### CS215 Repo
-- Online Shopping Cart  = "PJ2 checkpointB"
-- Music Playlist = "PJ3 checkpoint B cs215" 
-- Linked List Class Labs = "lab08" "lab09" "lab10"
+- **Online Shopping Cart**  = "PJ2 checkpointB"
+- **Music Playlist** = "PJ3 checkpoint B cs215" 
+- **Linked List Class Labs** = "lab08" "lab09" "lab10"
 
 
 <!---
