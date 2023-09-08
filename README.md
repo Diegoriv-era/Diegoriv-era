@@ -15,6 +15,7 @@
 - **Social Network** = "Project 1"
 - **Worm Game ASCII** = "pj2"
 - **Recursive Functions** = " pj3"
+- **Class Labs** = STILL IN PROGRESS OF UPLOADING
 ### CS215 Repo
 - **Online Shopping Cart**  = "PJ2 checkpointB"
 - **Music Playlist** = "PJ3 checkpoint B cs215" 
