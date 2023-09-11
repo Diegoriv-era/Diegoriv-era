@@ -7,6 +7,8 @@
 - 📫 gmail: riveradie@sonoma.edu  |  diego.rivera.srjc@gmail.com
 
 ## Projects:
+### CS460 Repo
+- Cash Register = "RiveraE1b"
 ### CS355 Repo
 - **NBA Ticket Sales Database** = "project 2"
   A KoaJS API used MariaDB and NodeJS
