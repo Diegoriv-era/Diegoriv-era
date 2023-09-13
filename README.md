@@ -11,6 +11,8 @@
 - Cash Register = "RiveraE1b"
 ### CS-425 Repo (Currently On-Going Class)
 - Improving Speed (tests) = "Assignments/01"
+### CS375-Final Repo
+- Audio Visualizer
 ### CS355 Repo
 - **NBA Ticket Sales Database** = "project 2"
   A KoaJS API used MariaDB and NodeJS
