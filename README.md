@@ -11,6 +11,7 @@
 - Cash Register = "RiveraE1b"
 ### CS-425 Repo (Currently On-Going Class)
 - Improving Speed (tests) = "Assignments/01"
+- Threading and Synchronization = "Assignments/02"
 ### CS375-Final Repo
 - Audio Visualizer
 ### CS355 Repo
