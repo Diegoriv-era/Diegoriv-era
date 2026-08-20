@@ -4,7 +4,7 @@
 - 📚 Student at Sonoma State University, majoring in Computer Science
 - 🚨 Some school projects may be private msg me for access
 - 📫 Connect with me on Linkedin: https://www.linkedin.com/in/diego-rivera-4a82451aa/
-- 📫 email: riveradie@sonoma.edu  |  diego.rivera.srjc@gmail.com
+- 📫 email: diego.rivera.srjc@gmail.com
 
 ## Projects:
 ### CS460 Repo (Currently On-Going Class)
