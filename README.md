@@ -7,9 +7,9 @@
 - 📫 email: diego.rivera.srjc@gmail.com
 
 ## Projects:
-### CS460 Repo (Currently On-Going Class)
+### CS460 Repo
 - Cash Register = "RiveraE1b"
-### CS-425 Repo (Currently On-Going Class)
+### CS-425 Repo
 - Improving Speed (tests) = "Assignments/01"
 - Threading and Synchronization = "Assignments/02"
 ### CS375-Final Repo
